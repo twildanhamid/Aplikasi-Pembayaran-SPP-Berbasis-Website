@@ -1,5 +1,5 @@
 <?php 
-$koneksi = mysqli_connect("localhost","root","","spprizki");
+$koneksi = mysqli_connect("localhost","root","","db_sppwildan1");
  
 // Check connection
 if (mysqli_connect_errno()){
